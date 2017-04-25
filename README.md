@@ -4,4 +4,4 @@ By connecting your phone to a repository of whiteboard images, whiteboardr frees
 
 Just snap an image of the whiteboard in question, send it to the repository, and erase away!
 
-![whiteboardr logo] (https://raw.githubusercontent.com/whiteboardr/gh-pages/master/assets/whiteboardr2.png)
+![whiteboardr logo](https://raw.githubusercontent.com/whiteboardr/gh-pages/master/assets/whiteboardr2.png)
